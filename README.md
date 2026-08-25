@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/rice2k-hero.png" alt="rice2k developer profile banner showing Windows utilities, retro web archives, pixel maps, repair tools, and project dashboards" width="100%">
+  <img src="assets/rice2k-hero.png" alt="Rice2K developer profile banner showing Windows utilities, retro web archives, pixel maps, repair tools, and project dashboards" width="100%">
 </p>
 
-# Hey, I'm rice2k
+# Hey, I'm Rice2K
 
 I build useful little command centers for Windows, repair workflows, retro web preservation, GraalOnline tooling, and searchable project archives. A lot of my work lives where practical tech meets old-internet curiosity: desktop utilities, recovered resources, toolkit dashboards, and experiments that make messy folders of knowledge easier to use.
 
