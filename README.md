@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rice2k-hero.png" alt="Rice2K developer profile banner showing Windows utilities, retro web archives, pixel maps, repair tools, and project dashboards" width="100%">
+  <a href="https://github.com/rice2k?tab=repositories"><img src="assets/rice2k-hero.png" alt="Rice2K developer profile banner showing Windows utilities, retro web archives, pixel maps, repair tools, and project dashboards" width="100%"></a>
 </p>
 
 <h1 align="center">Christopher Schumacher • Rice2K</h1>
@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-Tools-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows tools">
-  <img src="https://img.shields.io/badge/PowerShell-Automation-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell automation">
-  <img src="https://img.shields.io/badge/Python-Utilities-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python utilities">
-  <img src="https://img.shields.io/badge/C%23-Desktop_Apps-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C sharp desktop apps">
-  <img src="https://img.shields.io/badge/HTML%2FCSS-Web_Projects-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML and CSS web projects">
+  <a href="https://github.com/rice2k?tab=repositories&q=windows"><img src="https://img.shields.io/badge/Windows-Tools-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows tools"></a>
+  <a href="https://github.com/rice2k?tab=repositories&q=powershell"><img src="https://img.shields.io/badge/PowerShell-Automation-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell automation"></a>
+  <a href="https://github.com/rice2k?tab=repositories&q=python"><img src="https://img.shields.io/badge/Python-Utilities-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python utilities"></a>
+  <a href="https://github.com/rice2k?tab=repositories&q=c%23"><img src="https://img.shields.io/badge/C%23-Desktop_Apps-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C sharp desktop apps"></a>
+  <a href="https://github.com/rice2k?tab=repositories&q=html"><img src="https://img.shields.io/badge/HTML%2FCSS-Web_Projects-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML and CSS web projects"></a>
   <a href="https://github.com/rice2k?tab=followers"><img src="https://img.shields.io/github/followers/rice2k?style=flat-square&logo=github&label=Followers" alt="GitHub followers"></a>
 </p>
 
@@ -94,8 +94,8 @@ More builds: [Rice2K Computer Cleaner](https://github.com/rice2k/rice2k-computer
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rice2k&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="Rice2K GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rice2k&layout=compact&hide_border=true&langs_count=8" alt="Rice2K top languages">
+  <a href="https://github.com/rice2k?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api?username=rice2k&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="Rice2K GitHub stats"></a>
+  <a href="https://github.com/rice2k?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rice2k&layout=compact&hide_border=true&langs_count=8" alt="Rice2K top languages"></a>
 </p>
 
 > GitHub's native Achievements are shown separately on the profile when **Show Achievements on my profile** is enabled in GitHub profile settings.
