@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://github.com/rice2k?tab=repositories"><img src="assets/rice2k-hero.png" alt="Rice2K developer profile banner showing Windows utilities, retro web archives, pixel maps, repair tools, and project dashboards" width="100%"></a>
-</p>
+[![Rice2K developer profile banner showing Windows utilities, retro web archives, pixel maps, repair tools, and project dashboards](assets/rice2k-hero.png)](https://github.com/rice2k?tab=repositories)
 
 <h1 align="center">Christopher Schumacher • Rice2K</h1>
 
@@ -8,14 +6,12 @@
   IT • Windows utilities • GraalOnline preservation • retro web archives • desktop tools
 </p>
 
-<p align="center">
-  <a href="https://github.com/rice2k?tab=repositories"><img src="https://img.shields.io/badge/Windows-Tools-0078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows tools"></a>
-  <a href="https://github.com/rice2k?tab=repositories"><img src="https://img.shields.io/badge/PowerShell-Automation-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell automation"></a>
-  <a href="https://github.com/rice2k?tab=repositories"><img src="https://img.shields.io/badge/Python-Utilities-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python utilities"></a>
-  <a href="https://github.com/rice2k?tab=repositories"><img src="https://img.shields.io/badge/C%23-Desktop_Apps-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C sharp desktop apps"></a>
-  <a href="https://github.com/rice2k?tab=repositories"><img src="https://img.shields.io/badge/HTML%2FCSS-Web_Projects-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML and CSS web projects"></a>
-  <a href="https://github.com/rice2k?tab=followers"><img src="https://img.shields.io/github/followers/rice2k?style=flat-square&logo=github&label=Followers" alt="GitHub followers"></a>
-</p>
+[![Windows tools](https://img.shields.io/badge/Windows-Tools-0078D6?style=flat-square&logo=windows11&logoColor=white)](https://github.com/rice2k?tab=repositories&q=windows&type=&language=&sort=)
+[![PowerShell automation](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://github.com/rice2k?tab=repositories&q=&type=&language=powershell&sort=)
+[![Python utilities](https://img.shields.io/badge/Python-Utilities-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/rice2k?tab=repositories&q=&type=&language=python&sort=)
+[![C sharp desktop apps](https://img.shields.io/badge/C%23-Desktop_Apps-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/rice2k?tab=repositories&q=&type=&language=c%23&sort=)
+[![HTML and CSS web projects](https://img.shields.io/badge/HTML%2FCSS-Web_Projects-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/rice2k?tab=repositories&q=&type=&language=html&sort=)
+[![GitHub followers](https://img.shields.io/github/followers/rice2k?style=flat-square&logo=github&label=Followers)](https://github.com/rice2k?tab=followers)
 
 I build useful little command centers for Windows, repair workflows, retro web preservation, GraalOnline tooling, and searchable project archives. A lot of my work lives where practical tech meets old-internet curiosity: desktop utilities, recovered resources, toolkit dashboards, and experiments that make messy folders of knowledge easier to use.
 
@@ -81,16 +77,12 @@ More builds: [Rice2K Computer Cleaner](https://github.com/rice2k/rice2k-computer
 
 ## GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/rice2k?tab=repositories"><img src="https://img.shields.io/badge/View-All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all Rice2K repositories"></a>
-  <a href="https://github.com/rice2k?tab=stars"><img src="https://img.shields.io/badge/View-Starred_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Rice2K starred projects"></a>
-</p>
+[![View all Rice2K repositories](https://img.shields.io/badge/View-All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rice2k?tab=repositories)
+[![View Rice2K starred projects](https://img.shields.io/badge/View-Starred_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stars/rice2k)
 
-<p align="center">
-  <a href="https://github.com/rice2k?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Source_Projects-0969DA?style=flat-square&logo=github&logoColor=white" alt="Source repositories"></a>
-  <a href="https://github.com/rice2k?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Forks-8250DF?style=flat-square&logo=git&logoColor=white" alt="Forked repositories"></a>
-  <a href="https://github.com/rice2k?tab=followers"><img src="https://img.shields.io/github/followers/rice2k?style=flat-square&logo=github&label=Followers" alt="GitHub followers"></a>
-</p>
+[![Source repositories](https://img.shields.io/badge/Repositories-Source_Projects-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/rice2k?tab=repositories&type=source)
+[![Forked repositories](https://img.shields.io/badge/Repositories-Forks-8250DF?style=flat-square&logo=git&logoColor=white)](https://github.com/rice2k?tab=repositories&type=fork)
+[![GitHub followers](https://img.shields.io/github/followers/rice2k?style=flat-square&logo=github&label=Followers)](https://github.com/rice2k?tab=followers)
 
 > GitHub's native Achievements are shown separately on the profile when **Show Achievements on my profile** is enabled in GitHub profile settings.
 
