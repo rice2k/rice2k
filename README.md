@@ -94,8 +94,14 @@ More builds: [Rice2K Computer Cleaner](https://github.com/rice2k/rice2k-computer
 ## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/rice2k?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api?username=rice2k&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="Rice2K GitHub stats"></a>
-  <a href="https://github.com/rice2k?tab=repositories"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rice2k&layout=compact&hide_border=true&langs_count=8" alt="Rice2K top languages"></a>
+  <a href="https://github.com/rice2k?tab=repositories"><img src="https://img.shields.io/badge/View-All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all Rice2K repositories"></a>
+  <a href="https://github.com/rice2k?tab=stars"><img src="https://img.shields.io/badge/View-Starred_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Rice2K starred projects"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/rice2k?tab=repositories&q=&type=source"><img src="https://img.shields.io/badge/Source-Repositories-0969DA?style=flat-square&logo=github" alt="Source repositories"></a>
+  <a href="https://github.com/rice2k?tab=repositories&q=&type=fork"><img src="https://img.shields.io/badge/Forks-Repositories-8250DF?style=flat-square&logo=git" alt="Forked repositories"></a>
+  <a href="https://github.com/rice2k?tab=followers"><img src="https://img.shields.io/github/followers/rice2k?style=flat-square&logo=github&label=Followers" alt="GitHub followers"></a>
 </p>
 
 > GitHub's native Achievements are shown separately on the profile when **Show Achievements on my profile** is enabled in GitHub profile settings.
