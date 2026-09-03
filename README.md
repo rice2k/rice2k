@@ -26,27 +26,21 @@ I like projects that are direct, offline-friendly, and hands-on. If it helps som
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://rice2k.github.io/r2k-rescuedesk-usb/">
-        <img src="assets/cards/rescuedesk-usb.png" alt="R2K RescueDesk USB" width="100%">
-      </a>
+      <a href="https://github.com/rice2k/r2k-rescuedesk-usb"><img src="assets/cards/rescuedesk-usb.png" alt="R2K RescueDesk USB" width="100%"></a>
       <br>
       <strong><a href="https://github.com/rice2k/r2k-rescuedesk-usb">R2K RescueDesk USB</a></strong>
       <br>
       Service-bench USB command center for intake, triage, backup, Windows repair, WinPE workflows, reports, and closeout.
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/rice2k/rice2k-magic-tasks">
-        <img src="assets/cards/magic-tasks.png" alt="Rice2K Magic Tasks" width="100%">
-      </a>
+      <a href="https://github.com/rice2k/rice2k-magic-tasks"><img src="assets/cards/magic-tasks.png" alt="Rice2K Magic Tasks" width="100%"></a>
       <br>
       <strong><a href="https://github.com/rice2k/rice2k-magic-tasks">Rice2K Magic Tasks</a></strong>
       <br>
       Colorful Windows task planner with draggable tasks, reminders, calendar events, focus mode, templates, hotkeys, and themes.
     </td>
     <td width="33%" valign="top">
-      <a href="https://rice2k.github.io/old-free-online-resources/">
-        <img src="assets/cards/old-free-online-resources.png" alt="Old Free Online Resources" width="100%">
-      </a>
+      <a href="https://github.com/rice2k/old-free-online-resources"><img src="assets/cards/old-free-online-resources.png" alt="Old Free Online Resources" width="100%"></a>
       <br>
       <strong><a href="https://github.com/rice2k/old-free-online-resources">Old Free Online Resources</a></strong>
       <br>
@@ -55,27 +49,21 @@ I like projects that are direct, offline-friendly, and hands-on. If it helps som
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://rice2k.github.io/cyber-tool-atlas/">
-        <img src="assets/cards/cyber-tool-atlas.png" alt="Cyber Tool Atlas" width="100%">
-      </a>
+      <a href="https://github.com/rice2k/cyber-tool-atlas"><img src="assets/cards/cyber-tool-atlas.png" alt="Cyber Tool Atlas" width="100%"></a>
       <br>
       <strong><a href="https://github.com/rice2k/cyber-tool-atlas">Cyber Tool Atlas</a></strong>
       <br>
       Clean searchable cybersecurity tools directory for browsing utilities and references without the noise.
     </td>
     <td width="33%" valign="top">
-      <a href="https://rice2k.github.io/rice2k-rainmeter-control-bar/">
-        <img src="assets/cards/rainmeter-control-bar.png" alt="Rainmeter Control Bar" width="100%">
-      </a>
+      <a href="https://github.com/rice2k/rice2k-rainmeter-control-bar"><img src="assets/cards/rainmeter-control-bar.png" alt="Rainmeter Control Bar" width="100%"></a>
       <br>
       <strong><a href="https://github.com/rice2k/rice2k-rainmeter-control-bar">Rainmeter Control Bar</a></strong>
       <br>
       Rainmeter skin and GitHub Pages showcase for a desktop control bar with system-monitor and widget energy.
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/rice2k/Graalians-Discord-Server-Tool-Hub">
-        <img src="assets/cards/graal-tool-hub.png" alt="Graal Tool Hub" width="100%">
-      </a>
+      <a href="https://github.com/rice2k/Graalians-Discord-Server-Tool-Hub"><img src="assets/cards/graal-tool-hub.png" alt="Graal Tool Hub" width="100%"></a>
       <br>
       <strong><a href="https://github.com/rice2k/Graalians-Discord-Server-Tool-Hub">Graal Tool Hub</a></strong>
       <br>
