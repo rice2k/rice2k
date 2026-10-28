@@ -112,6 +112,8 @@ More builds: [Rice2K Computer Cleaner](https://github.com/rice2k/rice2k-computer
 
 > GitHub's native Achievements are shown separately on the profile when **Show Achievements on my profile** is enabled in GitHub profile settings.
 
+**[Repository discoverability audit & suggested GitHub topics](PROJECT-DISCOVERY-AUDIT.md)** — prioritized descriptions, homepage links, and search improvements for my public projects.
+
 ## Current Focus
 
 I'm turning scattered utilities and archives into cleaner, easier-to-use project homes. The goal is simple: make each project feel like it has a front door, a clear purpose, and enough personality that someone can tell what it does in a few seconds.
