@@ -114,6 +114,8 @@ More builds: [Rice2K Computer Cleaner](https://github.com/rice2k/rice2k-computer
 
 **[Browse every public repository in the static directory](https://rice2k.github.io/rice2k-startdeck/projects/all-projects.html)** — a crawlable, categorized index that works without JavaScript.
 
+**[Metadata maintenance guide](tools/README.md)** — safely preview and apply repository descriptions, topics, and live-site URLs with the free GitHub CLI.
+
 **[Repository discoverability audit & suggested GitHub topics](PROJECT-DISCOVERY-AUDIT.md)** — prioritized descriptions, homepage links, and search improvements for my public projects.
 
 ## Current Focus
