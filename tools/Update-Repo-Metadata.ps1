@@ -77,7 +77,10 @@ foreach ($item in $Projects) {
       $skipped++;continue
     }
     $patch=@{}
-    if ($item.Desc -and $current.description -cne $item.Desc) { $patch.description=$item.Desc }
+    # Do not overwrite an already good custom description unless specifically approved here.
+    $refreshDescriptions = @('rice2k','rice2k-startdeck','Cyber-Tool-Atlas','Graalians-Discord-Server-Tool-Hub')
+    $missingDescription = [string]::IsNullOrWhiteSpace([string]$current.description)
+    if ($item.Desc -and ($missingDescription -or $item.Name -in $refreshDescriptions) -and $current.description -cne $item.Desc) { $patch.description=$item.Desc }
     if ($item.Website -and $current.homepage -cne $item.Website) { $patch.homepage=$item.Website }
     $existing = @($current.topics | Where-Object { $_ -is [string] -and $_ })
     $allTopics = @($existing + @($item.Topics) | ForEach-Object { $_.ToLowerInvariant() } | Sort-Object -Unique)
