@@ -112,6 +112,8 @@ More builds: [Rice2K Computer Cleaner](https://github.com/rice2k/rice2k-computer
 
 > GitHub's native Achievements are shown separately on the profile when **Show Achievements on my profile** is enabled in GitHub profile settings.
 
+**[Browse every public repository in the static directory](https://rice2k.github.io/rice2k-startdeck/projects/all-projects.html)** — a crawlable, categorized index that works without JavaScript.
+
 **[Repository discoverability audit & suggested GitHub topics](PROJECT-DISCOVERY-AUDIT.md)** — prioritized descriptions, homepage links, and search improvements for my public projects.
 
 ## Current Focus
