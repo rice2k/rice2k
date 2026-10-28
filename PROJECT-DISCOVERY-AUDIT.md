@@ -75,6 +75,12 @@ Only attach website URLs that are genuinely public and working. GitHub Pages bei
 6. Specific repository topics (in the GitHub About UI), then link the live site.
 7. Keep fork/upstream attribution and don't rename third-party work as newly authored code.
 
+## Repository settings update helper
+
+A Windows PowerShell script is available at [tools/Update-Repo-Metadata.ps1](tools/Update-Repo-Metadata.ps1), with [usage documentation](tools/README.md). It previews proposed topic, description, and website updates for selected public originals; running with -Apply under your own authenticated GitHub CLI account is required to make these GitHub About changes. The committed script itself does not change repository settings.
+
+A [static public index of all 62 repositories](https://rice2k.github.io/rice2k-startdeck/projects/all-projects.html) provides links for visitors and search engines even when the live GitHub API is rate-limited.
+
 ## Publishing checklist
 
 - Open each public repo's About edit control; set the description, website, and topics.
