@@ -17,6 +17,23 @@ I build useful little command centers for Windows, repair workflows, retro web p
 
 I like projects that are direct, offline-friendly, and hands-on. If it helps someone repair a machine, organize a workflow, dig through old web history, customize their desktop, or understand a pile of tools faster, that is usually my kind of build.
 
+## Find Projects Faster
+
+**[Search all public Rice2K projects in the Project Explorer](https://rice2k.github.io/rice2k-startdeck/projects/)** — search repository names, programming languages, topics, and keywords; filter by category; sort by last update; or browse my public starred repositories. No login required.
+
+[![Open Rice2K Project Explorer](https://img.shields.io/badge/PROJECT_EXPLORER-SEARCH_ALL_PROJECTS-0e9f85?style=for-the-badge&logo=github&logoColor=white)](https://rice2k.github.io/rice2k-startdeck/projects/)
+[![Browse starred projects](https://img.shields.io/badge/STARRED-SEARCH_MY_COLLECTION-385d85?style=for-the-badge&logo=github&logoColor=white)](https://rice2k.github.io/rice2k-startdeck/projects/?scope=starred)
+
+### Browse by topic
+
+| Windows & IT | GraalOnline | Preservation & web archives |
+| :-- | :-- | :-- |
+| [Windows repair, PowerShell, PC utilities](https://rice2k.github.io/rice2k-startdeck/projects/?category=Windows%20%26%20IT) | [Graal tools, maps, GS2 and GANI](https://rice2k.github.io/rice2k-startdeck/projects/?category=GraalOnline) | [Old websites, recovered links and archives](https://rice2k.github.io/rice2k-startdeck/projects/?category=Web%20Archives) |
+| [Security and encryption](https://rice2k.github.io/rice2k-startdeck/projects/?category=Security) | [Discord bots and community projects](https://rice2k.github.io/rice2k-startdeck/projects/?category=Discord) | [Web applications and directories](https://rice2k.github.io/rice2k-startdeck/projects/?category=Web%20Projects) |
+| [Automation and scripts](https://rice2k.github.io/rice2k-startdeck/projects/?category=Automation) | [Productivity and task planners](https://rice2k.github.io/rice2k-startdeck/projects/?category=Productivity) | [All public repositories](https://github.com/rice2k?tab=repositories) |
+
+Quick keyword searches: [Graal](https://rice2k.github.io/rice2k-startdeck/projects/?q=Graal) · [Windows repair](https://rice2k.github.io/rice2k-startdeck/projects/?q=Windows%20repair) · [retro web](https://rice2k.github.io/rice2k-startdeck/projects/?q=retro) · [Python](https://rice2k.github.io/rice2k-startdeck/projects/?q=Python) · [Discord](https://rice2k.github.io/rice2k-startdeck/projects/?q=Discord)
+
 ## Featured Projects
 
 <table>
@@ -56,6 +73,15 @@ I like projects that are direct, offline-friendly, and hands-on. If it helps som
   </tr>
 </table>
 
+### Run, explore, or download
+
+- **[Project Explorer](https://rice2k.github.io/rice2k-startdeck/projects/)** — searchable project catalog.
+- **[R2K RescueDesk USB](https://rice2k.github.io/r2k-rescuedesk-usb/)** — Windows service-bench and repair workflow overview.
+- **[Old Free Online Resources](https://rice2k.github.io/old-free-online-resources/)** — explore recovered 1990s/2000s links.
+- **[Cyber Tool Atlas](https://rice2k.github.io/Cyber-Tool-Atlas/)** — browse security reference tools.
+- **[Graalians Tool Hub](https://rice2k.github.io/Graalians-Discord-Server-Tool-Hub/)** — GraalOnline tools and downloads.
+- **[Rainmeter Control Bar](https://rice2k.github.io/rice2k-rainmeter-control-bar/)** — screenshots, setup and releases.
+
 More builds: [Rice2K Computer Cleaner](https://github.com/rice2k/rice2k-computer-cleaner), [BTK Graal Guild Site Archive](https://github.com/rice2k/BTK-Graal-Guild-site-Remake-Archive), and [all repositories](https://github.com/rice2k?tab=repositories).
 
 ## Graal & Preservation Projects
@@ -82,7 +108,7 @@ More builds: [Rice2K Computer Cleaner](https://github.com/rice2k/rice2k-computer
 
 [![Source repositories](https://img.shields.io/badge/Repositories-Source_Projects-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/rice2k?tab=repositories&type=source)
 [![Forked repositories](https://img.shields.io/badge/Repositories-Forks-8250DF?style=flat-square&logo=git&logoColor=white)](https://github.com/rice2k?tab=repositories&type=fork)
-[![GitHub followers](https://img.shields.io/github/followers/rice2k?style=flat-square&logo=github&label=Followers)](https://github.com/rice2k?tab=followers)
+
 
 > GitHub's native Achievements are shown separately on the profile when **Show Achievements on my profile** is enabled in GitHub profile settings.
 
